@@ -4,7 +4,7 @@ import re
 from gtts import gTTS
 import os
 
-openai.api_key = "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"
+openai.api_key = "UR KEY"
 
 # Initialize the speech recognizer class (for recognizing speech)
 r = sr.Recognizer()
